@@ -2,7 +2,7 @@
 The JPMorgan Chase & Co. Excel Skills Virtual Internship, hosted by Forage, is an immersive program designed to equip aspiring finance professionals with essential Excel skills. The Excel Skills Virtual Internship empowers participants to stand out in the competitive finance landscape, setting them on a path to success. 
 
 ## Introduction
-J.P. Morgan is a global leader in the financial services, that offer services to the world’s most important corporations. The Data Analytics team is looking to analyze the account performance. metrics and sales trend for the 5years period between 2017-2021.
+J.P. Morgan is a global leader in the financial services, that offer services to the world’s most important corporations. The Data Analytics team is looking to analyze the account performance metrics and sales trend for the 5years period between 2017-2021.
 
 ## Task 1: Excel Keyboard Shortcuts
 Practiced common keyboard shortcuts to make working in Excel more efficient.
